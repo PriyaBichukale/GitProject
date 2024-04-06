@@ -1,0 +1,16 @@
+ def add(a,b):
+	print("Addition...",a+b)
+
+ def sub(a,b):
+	print("Substraction...",a-b)
+
+ def mul(a,b):
+	print("Multiplication...",a*b)
+
+ def div(a,b):
+	print("Division...",a/b)
+
+add(3,3)
+sub(3,3)
+mul(3,3)
+div(3,3)
