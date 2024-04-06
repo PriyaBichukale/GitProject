@@ -1,12 +1,18 @@
- def add(a,b):
+# This is python code
+
+# addition 
+def add(a,b):
 	print("Addition...",a+b)
 
+#substraction
  def sub(a,b):
 	print("Substraction...",a-b)
 
+#multiplication
  def mul(a,b):
 	print("Multiplication...",a*b)
 
+#division
  def div(a,b):
 	print("Division...",a/b)
 
